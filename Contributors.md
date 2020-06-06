@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - [Alexandr Mertl](https://github.com/sasutpasut)
 - [Yingfan Chen](https://github.com/yingfc)
@@ -1732,3 +1732,4 @@
 - [Sanjeev Choudhary](https://github.com/snjv9)
 - [Ronard Luna](https://github.com/rlgerman25)
 - [Michael Hall](https://github.com/mah51)
+- [Soumya Bhattacharya](https://github.com/SoumyaB28)
